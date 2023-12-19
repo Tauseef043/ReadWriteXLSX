@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-19T17:11:48 PKT" name="Default suite" finished-at="2023-12-19T17:11:51 PKT" duration-ms="2790">
+    <groups>
+    </groups>
+    <test started-at="2023-12-19T17:11:48 PKT" name="Default test" finished-at="2023-12-19T17:11:51 PKT" duration-ms="2790">
+      <class name="testcase.ReadWriteDataExcel">
+        <test-method signature="RedirectToURL()[pri:0, instance:testcase.ReadWriteDataExcel@6404f418]" started-at="2023-12-19T17:11:48 PKT" name="RedirectToURL" finished-at="2023-12-19T17:11:50 PKT" duration-ms="1870" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RedirectToURL -->
+        <test-method signature="writeData()[pri:1, instance:testcase.ReadWriteDataExcel@6404f418]" started-at="2023-12-19T17:11:50 PKT" name="writeData" finished-at="2023-12-19T17:11:51 PKT" duration-ms="733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeData -->
+        <test-method signature="readData()[pri:2, instance:testcase.ReadWriteDataExcel@6404f418]" started-at="2023-12-19T17:11:51 PKT" name="readData" finished-at="2023-12-19T17:11:51 PKT" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readData -->
+      </class> <!-- testcase.ReadWriteDataExcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
